@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# SeSAC Flutter 앱 개발 과정 학습 기록
+
+이 저장소는 **SeSAC 용산캠퍼스 Flutter 앱 개발 과정** 동안 진행한 학습 내용을 기록하기 위한 공간입니다.
+
+## 학습 자료
+- 본 실습은 수업 자료인 [healthyclass.kr](https://healthyclass.kr)를 기반으로 작성되었습니다.
+- 해당 사이트의 수업 자료는 권한이 없는 사용자에게는 난독화되어 보일 수 있습니다.
+
+## 참고 사항
+- 모든 연습 문제의 풀이를 담고 있지는 않으며, 일부 연습 문제만 진행하였습니다.
